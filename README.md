@@ -15,7 +15,7 @@
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,docker,ts,postgres,githubactions" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,docker,ts,postgres,githubactions,git" />
   </a>
 </p>
 
