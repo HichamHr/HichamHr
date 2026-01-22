@@ -1,5 +1,5 @@
-# Hi there, I'm [Your Name] 👋
-
+# Hi there, I'm Hicham 👋
+### SaaS Developer | Working on POS SaaS | Advanced Tech Enthusiast
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge" />
@@ -7,13 +7,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Advanced System Design & AI**
-- 💬 Ask me about **Django, Docker, or Web Scraping**
-- 📫 How to reach me: **[your@email.com]**
-
----
+### 🚀 What I'm Doing
+- 💻 **Currently Building:** A modern POS SaaS application.
+- 🧪 **Learning:** Advanced system architecture and high-performance scraping.
+- 💬 **Ask Me About:** Docker orchestration, Web Scraping patterns, or Laravel architecture.
 
 ### 🛠️ My Tech Stack
 <p align="left">
@@ -24,8 +21,13 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HichamHr&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamHr&theme=tokyonight" width="48%" />
+</p>
+
+### 🛠️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamHr&layout=compact&theme=tokyonight&hide=html,css" width="60%" />
 </p>
