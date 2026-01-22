@@ -1,41 +1,38 @@
 # Hi there, I'm Hicham 👋
-### SaaS Developer | Building the Future of Retail Tech 🛒
+### SaaS Architect & Fullstack Engineer | Focused on POS Systems & Web Scraping
 
 <p align="left">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-SaaS%20Architecture-blue?style=for-the-badge&logo=cloudfare" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge" />
+  <a href="https://hichamhr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hichamhr.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:harmate.hicham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 The Mission
-I specialize in building **high-performance SaaS ecosystems**. Currently, I'm obsessed with solving the complexities of real-time inventory and offline-first capabilities for retail environments.
+### 🏗️ What I'm Engineering
+I build scalable SaaS products with a focus on stability and high-performance data extraction.
 
-- 💻 **Core Project:** Building a modern **POS SaaS** with Next.js & Laravel.
-- 🧪 **R&D:** Implementing advanced **Web Scraping patterns** for competitive market analysis.
-- ⚙️ **Infrastructure:** Designing scalable **Docker Orchestration** for multi-tenant applications.
-
----
-
-### 🛠️ Tech Stack & Specialized Tools
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & SaaS Infrastructure**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- 🛒 **POS SaaS:** Developing a robust, multi-tenant POS ecosystem for retail.
+- 🕷️ **Advanced Scraping:** Engineering distributed scraping patterns to handle complex anti-bot systems.
+- ☁️ **Infrastructure:** Orchestrating Docker environments for high-availability SaaS deployments.
 
 ---
 
-### 📊 System Health & Activity
+### 🛠️ Strategic Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SaaS Core** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Performance** | ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+
+---
+
+### 📊 Engineering Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HichamHr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamHr&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="42%" />
@@ -47,12 +44,11 @@ I specialize in building **high-performance SaaS ecosystems**. Currently, I'm ob
 
 ---
 
-### 🤝 Let's Architect Something Great
-- 📧 **Email:** [Your Email]
-- 💼 **LinkedIn:** [linkedin.com/in/hichamhr](https://linkedin.com/in/hichamhr)
-- 🏗️ **Consulting:** Available for **SaaS Audits** and **Scraping Architecture**.
+### 🤝 Connect with Me
+- 🌐 **Website:** [hichamhr.com](https://hichamhr.com)
+- 📧 **Email:** [harmate.hicham@gmail.com](mailto:harmate.hicham@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/HichamHr](https://linkedin.com/in/HichamHr)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hicham-Fullstack%20Engineer-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=HichamHr&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=HichamHr&color=0078D4&style=flat-square&label=PROFILE+VIEWS" />
 </p>
