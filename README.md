@@ -15,7 +15,7 @@
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,docker,js,postgres,githubactions,aws" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,docker,ts,postgres,githubactions" />
   </a>
 </p>
 
