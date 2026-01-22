@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HichamHr&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=HichamHr&theme=tokyonight&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=HichamHr&theme=tokyonight&cache_bust=123" width="48%" />
 </p>
 
 ### 🛠️ Most Used Languages
