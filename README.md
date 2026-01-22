@@ -1,5 +1,5 @@
 # Hi there, I'm Hicham 👋
-### SaaS Architect & Fullstack Engineer | Focused on POS Systems & Web Scraping
+### SaaS Architect & Fullstack Engineer | Specialized in POS Systems & Real-time IoT
 
 <p align="left">
   <a href="https://hichamhr.com" target="_blank">
@@ -12,23 +12,24 @@
 
 ---
 
-### 🏗️ What I'm Engineering
-I build scalable SaaS products with a focus on stability and high-performance data extraction.
+### 🏗️ Engineering Focus
+I bridge the gap between complex backend logic and real-world hardware integration.
 
-- 🛒 **POS SaaS:** Developing a robust, multi-tenant POS ecosystem for retail.
-- 🕷️ **Advanced Scraping:** Engineering distributed scraping patterns to handle complex anti-bot systems.
-- ☁️ **Infrastructure:** Orchestrating Docker environments for high-availability SaaS deployments.
+- 🛒 **POS SaaS:** Engineering multi-tenant architectures with offline-first capabilities.
+- 📡 **Real-time IoT:** Utilizing **MQTT** for low-latency communication between SaaS backends and on-site retail hardware.
+- 🕷️ **Advanced Scraping:** Building distributed, resilient data extraction engines.
+- ☁️ **Cloud Ops:** Docker orchestration and Nginx reverse-proxy optimization for high-traffic SaaS.
 
 ---
 
 ### 🛠️ Strategic Tech Stack
 
-| Category | Tools & Technologies |
+| Domain | Technologies |
 | :--- | :--- |
 | **SaaS Core** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Performance** | ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Real-time & IoT** | ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Websockets](https://img.shields.io/badge/-Websockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Data Architecture** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Performance** | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) |
 
 ---
 
@@ -44,10 +45,10 @@ I build scalable SaaS products with a focus on stability and high-performance da
 
 ---
 
-### 🤝 Connect with Me
-- 🌐 **Website:** [hichamhr.com](https://hichamhr.com)
+### 🤝 Let's Connect
+- 🌐 **Portfolio:** [hichamhr.com](https://hichamhr.com)
 - 📧 **Email:** [harmate.hicham@gmail.com](mailto:harmate.hicham@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/HichamHr](https://linkedin.com/in/HichamHr)
+- 💼 **LinkedIn:** [HichamHr](https://linkedin.com/in/HichamHr)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HichamHr&color=0078D4&style=flat-square&label=PROFILE+VIEWS" />
